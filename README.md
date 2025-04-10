@@ -22,3 +22,5 @@ The purpose of this web app development project is to give a small business call
 
 4. Contact
  
+Cell No.: 073 203 8004
+Email: mkhizep971@gmail.com 
