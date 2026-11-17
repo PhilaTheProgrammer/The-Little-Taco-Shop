@@ -1,4 +1,4 @@
-Project Name: The Little Taco Shop Web Application
+Project Name: The Little Taco Shop Website
 
 Table of Contents
 1. Project Overview
